@@ -36,11 +36,9 @@ I build AI-powered products that combine **Machine Learning, Full Stack Developm
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### AI / ML
 
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
 ![RoBERTa](https://img.shields.io/badge/RoBERTa-8A2BE2?style=for-the-badge)
 ![LLaVA](https://img.shields.io/badge/LLaVA-444444?style=for-the-badge)
@@ -49,11 +47,11 @@ I build AI-powered products that combine **Machine Learning, Full Stack Developm
 
 ## 📊 GitHub Activity
 
-![](https://raw.githubusercontent.com/ansika-patti/profile-summary-card-output/master/github_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/ansika-patti/ansika-patti/main/profile-summary-card-output/github_dark/0-profile-details.svg)
 
-![](https://raw.githubusercontent.com/ansika-patti/profile-summary-card-output/master/github_dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/ansika-patti/ansika-patti/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
 
-![](https://raw.githubusercontent.com/ansika-patti/profile-summary-card-output/master/github_dark/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/ansika-patti/ansika-patti/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
 ---
 
 ## 🎯 Currently Learning
