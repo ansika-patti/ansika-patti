@@ -3,41 +3,61 @@
 
 ### B.Tech CSE @ IIITDM Jabalpur
 
-I build AI-powered products combining **Machine Learning, Full Stack Development, and Explainable AI**.
+I build AI-powered products combining Machine Learning, Full Stack Development, and Explainable AI.
 
 ---
 
-## 🚀 Currently Building
+## 🚀 Featured Projects
 
-- TalentLens – AI Recruitment Platform
-- PhishGuard – Multimodal Phishing Detection
+- 🛡️ **PhishGuard** – Multimodal AI Phishing Detection
+- 🎯 **TalentLens** – AI Recruitment Platform
+- 🎌 **NerdOtaku** – AI Entertainment Assistant
 
 ---
 
 ## 🛠 Tech Stack
 
-- React
-- Node.js
-- Express
-- Firebase
+**Languages**
+
 - Python
 - C++
 - Java
+- JavaScript
+
+**Frontend**
+
+- React
 - Tailwind CSS
+
+**Backend**
+
+- Node.js
+- Express
+
+**Cloud**
+
+- Firebase
+- Firestore
+- Firebase Storage
+
+**AI/ML**
+
 - Gemini API
+- XGBoost
+- RoBERTa
+- LLaVA
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Currently Learning
 
 - Full Stack Development
-- AI Products
-- Open Source
-- GSoC Preparation
-- Google STEP & Amazon Internship Preparation
+- AI Product Engineering
+- Open Source (GSoC)
+- System Design
 
 ---
 
 ## 📫 Connect
 
-- GitHub: https://github.com/ansika-patti
+GitHub: github.com/ansika-patti
