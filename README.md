@@ -15,7 +15,6 @@ I build AI-powered products that combine **Machine Learning, Full Stack Developm
 |---------|-------------|
 | 🛡️ **PhishGuard** | Multimodal AI Phishing Detection Framework |
 | 🎯 **TalentLens** | AI Recruitment Platform |
-| 🎌 **NerdOtaku** | AI Entertainment Assistant |
 
 ---
 
@@ -50,9 +49,9 @@ I build AI-powered products that combine **Machine Learning, Full Stack Developm
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ansika-patti&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ansika-patti&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansika-patti&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ansika-patti&layout=compact&theme=tokyonight)
 
 ---
 
