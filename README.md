@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Ansika Banner">
+</p>
 
 # Hi, I'm Ansika 👋
 
