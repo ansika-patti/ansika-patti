@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**ansika-patti/ansika-patti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ansika 👋
 
-Here are some ideas to get you started:
+### B.Tech CSE @ IIITDM Jabalpur
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build AI-powered products combining **Machine Learning, Full Stack Development, and Explainable AI**.
+
+---
+
+## 🚀 Currently Building
+
+- TalentLens – AI Recruitment Platform
+- PhishGuard – Multimodal Phishing Detection
+
+---
+
+## 🛠 Tech Stack
+
+- React
+- Node.js
+- Express
+- Firebase
+- Python
+- C++
+- Java
+- Tailwind CSS
+- Gemini API
+
+---
+
+## 🎯 Current Focus
+
+- Full Stack Development
+- AI Products
+- Open Source
+- GSoC Preparation
+- Google STEP & Amazon Internship Preparation
+
+---
+
+## 📫 Connect
+
+- GitHub: https://github.com/ansika-patti
