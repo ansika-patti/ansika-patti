@@ -3,49 +3,56 @@
 
 ### B.Tech CSE @ IIITDM Jabalpur
 
-I build AI-powered products combining Machine Learning, Full Stack Development, and Explainable AI.
+AI Product Builder • Full Stack Developer • Machine Learning Enthusiast
+
+I build AI-powered products that combine **Machine Learning, Full Stack Development, and Explainable AI**.
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🛡️ **PhishGuard** – Multimodal AI Phishing Detection
-- 🎯 **TalentLens** – AI Recruitment Platform
-- 🎌 **NerdOtaku** – AI Entertainment Assistant
+| Project | Description |
+|---------|-------------|
+| 🛡️ **PhishGuard** | Multimodal AI Phishing Detection Framework |
+| 🎯 **TalentLens** | AI Recruitment Platform |
+| 🎌 **NerdOtaku** | AI Entertainment Assistant |
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**
+### Languages
 
-- Python
-- C++
-- Java
-- JavaScript
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Frontend**
+### Frontend
 
-- React
-- Tailwind CSS
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Backend**
+### Backend & Cloud
 
-- Node.js
-- Express
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**Cloud**
+### AI / ML
 
-- Firebase
-- Firestore
-- Firebase Storage
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
+![RoBERTa](https://img.shields.io/badge/RoBERTa-8A2BE2?style=for-the-badge)
+![LLaVA](https://img.shields.io/badge/LLaVA-444444?style=for-the-badge)
 
-**AI/ML**
+---
 
-- Gemini API
-- XGBoost
-- RoBERTa
-- LLaVA
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ansika-patti&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansika-patti&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -60,4 +67,4 @@ I build AI-powered products combining Machine Learning, Full Stack Development, 
 
 ## 📫 Connect
 
-GitHub: github.com/ansika-patti
+- GitHub: https://github.com/ansika-patti
