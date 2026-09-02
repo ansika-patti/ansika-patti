@@ -49,9 +49,9 @@ I build AI-powered products that combine **Machine Learning, Full Stack Developm
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ansika-patti&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ansika-patti&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ansika-patti&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ansika-patti&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
