@@ -47,12 +47,13 @@ I build AI-powered products that combine **Machine Learning, Full Stack Developm
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ansika-patti&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://raw.githubusercontent.com/ansika-patti/profile-summary-card-output/master/github_dark/0-profile-details.svg)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ansika-patti&layout=compact&theme=tokyonight&hide_border=true)
+![](https://raw.githubusercontent.com/ansika-patti/profile-summary-card-output/master/github_dark/1-repos-per-language.svg)
 
+![](https://raw.githubusercontent.com/ansika-patti/profile-summary-card-output/master/github_dark/2-most-commit-language.svg)
 ---
 
 ## 🎯 Currently Learning
