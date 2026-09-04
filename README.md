@@ -6,9 +6,9 @@
 
 ### B.Tech CSE @ IIITDM Jabalpur
 
-AI Product Builder • Full Stack Developer • Machine Learning Enthusiast
+Machine Learning Enthusiast • Full Stack Developer
 
-I build AI-powered products that combine **Machine Learning, Full Stack Development, and Explainable AI**.
+Building real-world ML applications with Computer Vision, NLP, and intelligent systems.
 
 ---
 
@@ -16,8 +16,8 @@ I build AI-powered products that combine **Machine Learning, Full Stack Developm
 
 | Project | Description |
 |---------|-------------|
-| 🛡️ **PhishGuard** | Multimodal AI Phishing Detection Framework |
-| 🎯 **TalentLens** | AI Recruitment Platform |
+| 🛡️ **PhishGuard** | Multimodal Phishing Detection Framework |
+| 🎯 **TalentLens** | Talent Assessment Platform |
 
 ---
 
@@ -50,22 +50,27 @@ I build AI-powered products that combine **Machine Learning, Full Stack Developm
 
 ## 📊 GitHub Activity
 
-![](https://raw.githubusercontent.com/ansika-patti/ansika-patti/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ansika-patti/ansika-patti/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="95%">
+</p>
 
-![](https://raw.githubusercontent.com/ansika-patti/ansika-patti/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
-
-![](https://raw.githubusercontent.com/ansika-patti/ansika-patti/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ansika-patti/ansika-patti/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%">
+  <img src="https://raw.githubusercontent.com/ansika-patti/ansika-patti/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%">
+</p>
 ---
 
 ## 🎯 Currently Learning
 
 - Full Stack Development
-- AI Product Engineering
-- Open Source (GSoC)
+- Machine Learning
+- Computer Vision
+- Natural Language Processing
 - System Design
+- Open Source Contributions (GSoC)
 
 ---
 
 ## 📫 Connect
 
-- GitHub: https://github.com/ansika-patti
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ansika-patti)
